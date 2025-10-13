@@ -1,1 +1,3 @@
 notebook #jupyter notebook
+langchain_google_genai
+langchain
