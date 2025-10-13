@@ -5,9 +5,9 @@ Financial calculator development in python using Generative AI and LangGraph fra
 
 Configuração de ambiente:
 
-criar ambiente virtual: python -m venv venv
+criação ambiente virtual: python -m venv venv
 
-executar o ambiente virtual: venv\Scripts\activate
+execução o ambiente virtual: venv\Scripts\activate
 
 instalação das bibliotecas necessárias: pip install -r requirements.txt
 
